@@ -17,3 +17,7 @@ How would branches help?
 
 Experimental change, testing multiple implementations, etc. I can make the different changes to
 the same file and compare them.
+
+How do the diagrams help you visualize the branch structure?
+
+They show each commit's parent so it's easy to trace each branch.
