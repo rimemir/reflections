@@ -6,3 +6,8 @@ How is the staging area different from working directory and the repository?
 What value do you think it offers?
 
 You can separate commits even if you worked on multiple files without commiting.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+If I do more than one logical change without commiting, I can stage and commit each
+change separately.
