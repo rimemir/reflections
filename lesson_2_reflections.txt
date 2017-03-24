@@ -28,3 +28,7 @@ way we do?
 New file versions are created that are a combination of the files from both branches, and then they're comitted.
 In diagram we represent it as a new commit with two parents.
 
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Less work. Also, less chance for error or forgeting a portion of a file. On the other hand, it can break code
+in some cases, then it might be hard to find the bug.
