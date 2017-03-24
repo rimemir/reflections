@@ -21,3 +21,10 @@ the same file and compare them.
 How do the diagrams help you visualize the branch structure?
 
 They show each commit's parent so it's easy to trace each branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the
+way we do?
+
+New file versions are created that are a combination of the files from both branches, and then they're comitted.
+In diagram we represent it as a new commit with two parents.
+
