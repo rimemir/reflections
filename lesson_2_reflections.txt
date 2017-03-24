@@ -11,3 +11,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 If I do more than one logical change without commiting, I can stage and commit each
 change separately.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+Experimental change, testing multiple implementations, etc. I can make the different changes to
+the same file and compare them.
